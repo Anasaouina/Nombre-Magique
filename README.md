@@ -4,7 +4,7 @@ Ce projet est un jeu en réseau où le client doit deviner un **nombre magique**
 
 ## 💠 Technologies utilisées
 
-* Python 3.x
+* Python 3.13.1
 * Sockets TCP (`socket`)
 * Communication entre deux machines sur le même réseau (LAN)
 
